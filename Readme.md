@@ -4,6 +4,7 @@
 - Multiple Screen Activities
 - Fragments
 - FragmentManager
+- FragmentPagerAdapter
 - Explicit Intents
 - ListView and ArrayAdapter, CustomAdapter
 - ViewPager
