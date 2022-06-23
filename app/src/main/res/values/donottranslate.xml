@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telugu_color_red">ఎరుపు</string>
+    <string name="telugu_color_dusty_yellow">మురికి పసుపు</string>
+    <string name="telugu_color_mustard_yellow">ఆవాలు పసుపు</string>
+    <string name="telugu_color_green">ఆకుపచ్చ</string>
+    <string name="telugu_color_brown">గోధుమ రంగు</string>
+    <string name="telugu_color_black">నలుపు</string>
+    <string name="telugu_color_gray">బూడిద రంగు</string>
+    <string name="telugu_color_white">తెలుపు</string>
+    <string name="telugu_family_father">తండ్రి</string>
+    <string name="telugu_family_mother">తల్లి</string>
+    <string name="telugu_family_son">కొడుకు</string>
+    <string name="telugu_family_daughter">కూతురు</string>
+    <string name="telugu_family_older_brother">పెద్దన్నయ్య</string>
+    <string name="telugu_family_younger_brother">తమ్ముడు</string>
+    <string name="telugu_family_older_sister">అక్క</string>
+    <string name="telugu_family_younger_sister">చిన్న చెల్లి</string>
+    <string name="telugu_family_grandmother">అమ్మమ్మ</string>
+    <string name="telugu_family_grandfather">తాతయ్య</string>
+    <string name="telugu_number_one">ఒకటి</string>
+    <string name="telugu_number_two">రెండు</string>
+    <string name="telugu_number_three">మూడు</string>
+    <string name="telugu_number_four">నాలుగు</string>
+    <string name="telugu_number_five">ఐదు</string>
+    <string name="telugu_number_six">ఆరు</string>
+    <string name="telugu_number_seven">ఏడు</string>
+    <string name="telugu_number_eight">ఎనిమిది</string>
+    <string name="telugu_number_nine">తొమ్మిది</string>
+    <string name="telugu_number_ten">పది</string>
+    <string name="telugu_phrase_where_are_you_going">మీరు ఎక్కడికి వెళుతున్నారు</string>
+    <string name="telugu_phrase_what_is_your_name">నీ పేరు ఏమిటి</string>
+    <string name="telugu_phrase_my_name_is">నా పేరు</string>
+    <string name="telugu_phrase_how_are_you_feeling">నీ అనుభూతి ఎలా ఉంది</string>
+    <string name="telugu_phrase_im_feeling_good">నేను బాగా నే ఉన్నాను</string>
+    <string name="telugu_phrase_are_you_coming">మీరు వస్తున్నారా</string>
+    <string name="telugu_phrase_yes_im_coming">అవును నేను వస్తున్నాను</string>
+    <string name="telugu_phrase_im_coming">నేను వస్తున్నాను</string>
+    <string name="telugu_phrase_lets_go">వెళ్ళనివ్వండి</string>
+    <string name="telugu_phrase_come_here">ఇక్కడికి రండి</string>
+</resources>
